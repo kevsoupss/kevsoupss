@@ -2,7 +2,7 @@
 I'm a Computer Science student at UBC and a software engineer who loves building **scalable backend systems**, and **full-stack applications**. More recently, I've been exploring lower-level concepts and experimenting with systems that prioritize speed, efficiency, and clean architecture.
 
 ## Current Interests
-Diving into modern C++, gRPC, and trading-system architecture to understand low-latency design and service communication.
+Diving into C++, gRPC, and trading-system architecture to understand low-latency design and service communication.
 
 ## Dev Stack
 **Languages:** Java, Python, TypeScript, C++, Go  
